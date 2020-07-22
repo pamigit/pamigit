@@ -1,6 +1,6 @@
 ## Hello Happy World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<img align="right" alt="GIF" src="pamicode.gif" />
+<img align="right" height="400" alt="GIF" src="pamicode.gif" />
 
 ### I am Pamela Praščević
 - Frontend developer and always open for new stuff.
@@ -9,20 +9,19 @@
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 ⭐️ From [Pamela Prascevic](https://github.com/pamigit)
-<div style="text-align: center;">
-  <a href="https://twitter.com/pamizoki">
-  <img align="left" alt="Pamela's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
-  <a href="https://linkedin.com/in/pamela-prascevic">
-    <img align="left" alt="Pamela's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://instagram.com/pamela_prascevic/">
-    <img align="left" alt="Pamela's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-  <a href="https://github.com/pamigit">
-    <img align="left" alt="Pamela's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  </a>
-</div>
+
+<a href="https://twitter.com/pamizoki">
+<img align="left" alt="Pamela's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/pamela-prascevic">
+  <img align="left" alt="Pamela's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://instagram.com/pamela_prascevic/">
+  <img align="left" alt="Pamela's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://github.com/pamigit">
+  <img align="left" alt="Pamela's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 <!--
 **pamigit/pamigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
