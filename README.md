@@ -1,6 +1,6 @@
 ## Hello Happy World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Wqcn7BPjwmL0VogQYv/giphy.gif" />
+<img align="right" alt="GIF" src="pamicode.gif" />
 <br />
 <a href="https://twitter.com/pamizoki">
   <img align="left" alt="Pamela's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
