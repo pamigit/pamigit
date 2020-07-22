@@ -1,6 +1,6 @@
 ## Hello Happy World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<img align="right" height="400" alt="GIF" src="pamicode.gif" />
+<img align="right" height="300" alt="GIF" src="pamicode.gif" />
 
 ### I am Pamela Praščević
 - Frontend developer and always open for new stuff.
