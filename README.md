@@ -1,7 +1,6 @@
 ## Hello Happy World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-
-![pamicode](https://media.giphy.com/media/Wqcn7BPjwmL0VogQYv/giphy.gif)
+<img align="right" height="350" alt="pamicode" src="https://user-images.githubusercontent.com/26039708/88279017-a8cef780-cce3-11ea-8ccd-327d35fd5d4b.gif">
 
 ### I am Pamela Praščević
 - Frontend developer and always open for new stuff.
