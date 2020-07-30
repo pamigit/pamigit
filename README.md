@@ -10,8 +10,11 @@
 
 ⭐️ From [Pamela Prascevic](https://github.com/pamigit)
 
+<a href="https://dev.to/pamigit">
+  <img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pamela's DEV Profile" width="25px">
+</a>
 <a href="https://twitter.com/pamizoki">
-<img align="left" alt="Pamela's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Pamela's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/pamela-prascevic">
   <img align="left" alt="Pamela's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
