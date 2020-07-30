@@ -11,7 +11,7 @@
 ⭐️ From [Pamela Prascevic](https://github.com/pamigit)
 
 <a href="https://dev.to/pamigit">
-  <img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pamela's DEV Profile" width="25px">
+  <img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pamela's DEV Profile" width="22px">
 </a>
 <a href="https://twitter.com/pamizoki">
   <img align="left" alt="Pamela's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
