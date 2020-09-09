@@ -4,9 +4,10 @@
 
 ### I am Pamela Praščević
 - Frontend developer and always open for new stuff.
-- Have a Master's degree on Natural Science University for Physics and Informatics area. 
-- Currently learning React, and always improve my skills on Codewar, Codepen, etc.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- Have a Master's degree on Natural Science University for Physics and Informatics area.
+- Professor of IT subjects in High School "Druga Kragujevacka Gimnazija" 
+- Currently learning React, WordPress, Alghorithms and always improve my skills on Codewar, Codepen, etc.
+- I love to learn and contribute in any and every possible way.
 
 ⭐️ From [Pamela Prascevic](https://github.com/pamigit)
 
